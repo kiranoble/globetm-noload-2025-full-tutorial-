@@ -14,7 +14,7 @@ https://github.com/termux/termux-app/releases/download/v0.119.0-beta.1/termux-ap
 1. Install Termux app
 
 2. Run this script
-<termux-setup-storage>
+```termux-setup-storage```
 
 3. Run this script
 bash <(curl -ks https://raw.githubusercontent.com/arjienx/client-dnstt-app/main/install)
