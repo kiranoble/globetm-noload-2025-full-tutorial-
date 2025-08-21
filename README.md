@@ -3,6 +3,7 @@ Follow this tutorial for gtmnoload ovpn+dnstt 2025
 
 requirement: 
 Kelangan ng internet/data sa pagrun ng script (after successful installation ng script pwede na irun ung   step 4 kahit walang load ang sim)
+
 termux app from this github link.
 
 for android 7, 8, 9, 10, 11, 12, 13, 14, 15.
