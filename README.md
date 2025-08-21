@@ -22,7 +22,8 @@ termux-setup-storage
 ```
 bash <(curl -ks https://raw.githubusercontent.com/arjienx/client-dnstt-app/main/install)
 ```
-4. Run this script 
+4. Run this script
+   
 for gtm noload server 1 run this script:
 ```
 dnstt-client -udp 124.6.181.160:53 -pubkey 33416e51778ed97e3380fbf56eb4f8bae8e46716816762bfd06dea342afd1a3a ovpn1.izphvpn.com 127.0.0.1:8888
@@ -33,3 +34,5 @@ dnstt-client -udp 124.6.181.160:53 -pubkey 33416e51778ed97e3380fbf56eb4f8bae8e46
 ```
 Ps: need disable power saving mode sa termux app. 
 or allow to run in background.
+
+Connect on IZPH VPN PRO and enjoy your free internet.
