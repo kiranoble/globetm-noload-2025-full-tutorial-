@@ -29,5 +29,9 @@ Ps: need disable power saving mode sa dnstt.apk
 or allow to run in background.
 
 Connect on IZPH VPN PRO and enjoy your free internet.
+
 Playstore link:
 https://play.google.com/store/apps/details?id=com.izphprov2.net
+
+MediaFire link:
+https://www.mediafire.com/file/p31hpn7130lya4n/izph41.apk/file
