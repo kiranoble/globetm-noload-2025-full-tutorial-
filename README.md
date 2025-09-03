@@ -5,6 +5,7 @@ credits to yooh for the dnstt.apk
 Follow this tutorial for gtmnoload ovpn+dnstt 2025
 
 Install dnstt.apk first 
+https://github.com/kiranoble/globetm-noload-2025-full-tutorial-/raw/refs/heads/main/DNSTT_v1.0.3a.apk
 
 for gtm noload server 1 run this script:
 ```
