@@ -22,6 +22,15 @@ for gtm noload Singapore 2:
 ```
 dnstt-client -udp 124.6.181.160:53 -pubkey 33416e51778ed97e3380fbf56eb4f8bae8e46716816762bfd06dea342afd1a3a ovpn2.izphvpn.com 127.0.0.1:8888
 ```
+for gtm noload Singapore 3:
+```
+dnstt-client -udp 124.6.181.160:53 -pubkey 33416e51778ed97e3380fbf56eb4f8bae8e46716816762bfd06dea342afd1a3a ovpn3.izphvpn.com 127.0.0.1:8888
+```
+for gtm noload Singapore 4:
+```
+dnstt-client -udp 124.6.181.160:53 -pubkey 33416e51778ed97e3380fbf56eb4f8bae8e46716816762bfd06dea342afd1a3a ovpn4.izphvpn.com 127.0.0.1:8888
+```
+
 4. choose config sa dnstt.apk then start
 5. open izph vpn pro then connect on gtmnoload ovpn 2025
    
