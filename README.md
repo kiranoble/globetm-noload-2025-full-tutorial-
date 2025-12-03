@@ -40,7 +40,7 @@ dnstt://wFjnEYilmL4JOTfUltGtgnpKkcDnrcbUxL4SlQrde3AZMpG+RQ9NyIV0EuSQSeEPrtsJnt6b
 Ps: need disable power saving mode sa dnstt.apk 
 or allow to run in background.
 
-Connect on IZPH VPN PRO and enjoy your free internet.
+Connect on globe tm noload sa izph app and enjoy your free internet.
 
 Playstore link:
 https://play.google.com/store/apps/details?id=com.izphprov2.net
