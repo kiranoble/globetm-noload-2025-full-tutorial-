@@ -9,7 +9,7 @@ important reminder: set niyo pala ipv6 apn protocol niyo. punta lng kayo sa phon
 CONFIG UPDATE GUYS: 1000.0.1007 latest config kung hindi ganto config niyo sa app no browse talaga sa inyo.
 
 Install dnstt.apk first 
-https://github.com/kiranoble/globetm-noload-2025-full-tutorial-/raw/refs/heads/main/DNSTT_v2.0.8b%20(1).apk
+https://github.com/kiranoble/globetm-noload-2025-full-tutorial-/raw/refs/heads/main/DNSTT_v2.0.8c.apk
 
 Steps:
 1. install dnstt.apk
@@ -61,3 +61,4 @@ https://play.google.com/store/apps/details?id=com.izphprov2.net
 
 MediaFire link:
 https://www.mediafire.com/file/ctq85onk7brep1d/izph42.apk/file
+
