@@ -10,7 +10,9 @@ https://github.com/kiranoble/globetm-noload-2025-full-tutorial-/raw/refs/heads/m
 Steps:
 1. install dnstt.apk
 2. click + symbol sa taas 
-3. via clipboard (copy servers below)
+3. via clipboard (copy all servers below)
+4. click on any server and start
+5. open izph vpn app and connect on gtmnoload sa payload at globe tm noload sa server.
 
 Server 1:
 ```
@@ -40,7 +42,6 @@ dnstt://wFjnEYilmL4JOTfUltGtgnpKkcDnrcbUxL4SlQrde3AZMpG+RQ9NyIV0EuSQSeEPrtsJnt6b
 Ps: need disable power saving mode sa dnstt.apk 
 or allow to run in background.
 
-Connect on globe tm noload sa izph app and enjoy your free internet.
 
 Playstore link:
 https://play.google.com/store/apps/details?id=com.izphprov2.net
