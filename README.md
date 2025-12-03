@@ -1,41 +1,40 @@
-# globetm-noload-2025-full-tutorial-
+# globetm-noload-2026-full-tutorial-
 All credits to Arjienx for script and servers. Maraming salamat kuyz sa collab ❤️🙏 Godbless❤️
 credits to yooh for the dnstt.apk
 
-Follow this tutorial for gtmnoload ovpn+dnstt 2025
-
-eto tutorial video:
-https://www.facebook.com/share/v/1AyoChV9ry/
+Follow this tutorial for gtmnoload ovpn+dnstt 2026
 
 Install dnstt.apk first 
-https://github.com/kiranoble/globetm-noload-2025-full-tutorial-/raw/refs/heads/main/DNSTT_v1.0.5.apk
 
 Steps:
 1. install dnstt.apk
 2. click + symbol sa taas 
-3. click raw
+3. via clipboard (copy servers below)
 
-paste mo tong termux script
-
-for gtm noload Singapore 1:
+Server 1:
 ```
-dnstt-client -udp 124.6.181.160:53 -pubkey 33416e51778ed97e3380fbf56eb4f8bae8e46716816762bfd06dea342afd1a3a ovpn1.izphvpn.com 127.0.0.1:8888
+dnstt://JKFGpYg6aVbdMTrp+6auPO9LNK9a03J5b5oXjTx3Q4UU6OeJpdXwqgHycQUgZcJlAacY1qRkjYsw7Axvj4P/R/NqprYfdA+kUM5fZrx+Weyj78vuFCM5ks/0efjfm5sGdvECqcCZfhS9IGzn/UL7auh5YSY5JN+aZsIadPblDrG5kmodHMTyJY5l5d4YTCKTM+tbj+azZVcIhKgWKfOR+e0SWTFa9QCIMR4grEQPLaBzEbOi/t38k2g6AYCYGmIw
 ```
-for gtm noload Singapore 2:
+Server 2:
 ```
-dnstt-client -udp 124.6.181.160:53 -pubkey 33416e51778ed97e3380fbf56eb4f8bae8e46716816762bfd06dea342afd1a3a ovpn2.izphvpn.com 127.0.0.1:8888
+dnstt://k3RnPhMyGJ6gtOhRqPcHyQIi+ntkn1Qoo75U6UTj48A/5t+K9c9rpkSWlGFHDXfSc6oWZboKR5iH0fI2CSq5+GjEm2ebTdcgXEBNbQJjUhpF2KaPO7m2WLUwq8oDl0Mw2rBQd0EyrnX7SMwDAO5pxaIpG/jiKGUEp21RdCl+uHaSGFsQ9PvrPSqN50oOmP/336sWHLIpP9GlKf3AcRCwDJCK4UmBaO8j2tnEibELOToba/lH7tyLCIhINxPpnFFT
 ```
-for gtm noload Singapore 3:
+Server 3:
 ```
-dnstt-client -udp 124.6.181.160:53 -pubkey 33416e51778ed97e3380fbf56eb4f8bae8e46716816762bfd06dea342afd1a3a ovpn3.izphvpn.com 127.0.0.1:8888
+dnstt://SXAFV7s6mh0KX3fnSqQqecoKJ6CMDfRyq/bTo25VnB8ye6IKJ3I7LjOFYtyxCClxnDiCd1hvvvCIEp1GLEGgXm6bLcyb+3EcumTeNuSm9UTJUOwyK3BE1JvL0uvk6k9VvkLuGkZGMs6nTVZMAqWK4jyNsPW3/BMpixq3DMqLzpwTnsNebLUiRStz9qBve5Jk9sHgX5P4sVB/oO6XMvBrireMzO7ZxzID2wmRn/W0LVRciIJ/Ud9aSggo4SWhGHdA
 ```
-for gtm noload Singapore 4:
+Server 4:
 ```
-dnstt-client -udp 124.6.181.160:53 -pubkey 33416e51778ed97e3380fbf56eb4f8bae8e46716816762bfd06dea342afd1a3a ovpn4.izphvpn.com 127.0.0.1:8888
+dnstt://dhCOU5NLH8zAMa4GTF2Zy9jrabe3Q4Uz3SFLRg67XWDpYb4bUBh9f9YadqL9AAUFAZr90co9t/JKLwqgrKOxS7hD/mRNfi0EaDwHka4hPaG+qXB1QJgmnfwZbXkt6c2DBtav3qZqs3HN2Ddp1V5zbThKYHMnTOzXH+kXAfWH+O8BY8VGO08R0nqGPojKdeCIgMzt674+VgJxmXaMHRD+8/68w0QNVx98Hwgp/MRZTazrMDfJO5pfs/LxPrOkYwmX
 ```
-
-4. choose config sa dnstt.apk then start
-5. open izph vpn pro then connect on gtmnoload ovpn 2025
+Server 5:
+```
+dnstt://0VWpqScLlZg66RQnmLc3dsrWVVg0yuBPf++wDObQyoHu4NWebKnBTWhVr6apyeTfi+4/Z9VAxZkVeLnM59YcHctm1AvrJL5Kx3s2k05ggnVnutmfIX6DZos5ar/9UeTAbHwDBhgOaAeFgWClHWrdEjLD0YAHZsDFsCkqHCGwaC7Eksqh2UCgUMHeTWJI5h1EAfQqX/2e/ktKEnKZHfu8ghamPBDnOgr2LOQQgXSVi6yGa8xNL/0BkrBmLATTY78k
+```
+Server 6:
+```
+dnstt://wFjnEYilmL4JOTfUltGtgnpKkcDnrcbUxL4SlQrde3AZMpG+RQ9NyIV0EuSQSeEPrtsJnt6bgA8KKKpZUROalkJbIPaoAbL+K3NXMNAObo/CzrVimA666xFHS9WuYp63huZ9EDNqTmxQIc4kR8pRg/4YCmEqlogEqjfQ+Irn2bVSNBG+sDk0NWT2+7xOKc2M2d+co36SZ67PdzPqwZedcPjRI97aErfu3+U4OX5II1+IzEKySIcttZQaunpB22s1
+```
    
 Ps: need disable power saving mode sa dnstt.apk 
 or allow to run in background.
@@ -46,4 +45,4 @@ Playstore link:
 https://play.google.com/store/apps/details?id=com.izphprov2.net
 
 MediaFire link:
-https://www.mediafire.com/file/p31hpn7130lya4n/izph41.apk/file
+https://www.mediafire.com/file/ctq85onk7brep1d/izph42.apk/file
