@@ -4,6 +4,8 @@ credits to yooh for the dnstt.apk
 
 Follow this tutorial for gtmnoload ovpn+dnstt 2026
 
+important reminder: set niyo pala ipv6 apn protocol niyo. punta lng kayo sa phone settings - sim and mobile network - click your gtm sim - apn or access point names- edit niyo apn protocol set to ipv6 only
+
 Install dnstt.apk first 
 https://github.com/kiranoble/globetm-noload-2025-full-tutorial-/raw/refs/heads/main/DNSTT_v2.0.8b%20(1).apk
 
