@@ -15,6 +15,7 @@ Steps:
 3. via clipboard (copy all servers below)
 4. click on any server and start
 5. open izph vpn app and connect on gtmnoload sa payload at globe tm noload sa server.
+6. pag connected tapos nobrowse mag on and off airplane mode lang kayo until magkabrowse. pag okay na wag niu na ioff data niyo. Enjoy and huwag kalimutang magadd time ⏰
 
 Server 1:
 ```
