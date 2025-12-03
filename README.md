@@ -43,6 +43,10 @@ Server 6:
 ```
 dnstt://wFjnEYilmL4JOTfUltGtgnpKkcDnrcbUxL4SlQrde3AZMpG+RQ9NyIV0EuSQSeEPrtsJnt6bgA8KKKpZUROalkJbIPaoAbL+K3NXMNAObo/CzrVimA666xFHS9WuYp63huZ9EDNqTmxQIc4kR8pRg/4YCmEqlogEqjfQ+Irn2bVSNBG+sDk0NWT2+7xOKc2M2d+co36SZ67PdzPqwZedcPjRI97aErfu3+U4OX5II1+IzEKySIcttZQaunpB22s1
 ```
+Server 7:
+```
+dnstt://+SGpLRRNI4GgAbsarY4lqjktOOOL/4Rg0doRm2MdWYRbuWLa2iDN2Ffmb6X/mWJNYh2a8zbN7gEpJEqfXqI+VXnmWaxphET6JeKlmgxQaWhHBtlJ2yv2tSBqQXMslyhSdPbwroCa8k6nKF4XHD6w5kUR1BgtOEDdNh21ZdX9XHARX529UH3yBE/Z1U8MLcq2n/W2tcI+gBdJFVB9HNN58rWIDA/pp+J1CmobfmJao2IgMm31ZHL28wowp5qqBoy9
+```
    
 Ps: need disable power saving mode sa dnstt.apk 
 or allow to run in background.
