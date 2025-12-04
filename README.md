@@ -51,7 +51,14 @@ Server 8
 ```
 dnstt://T6TPmi96yhJTMP6GLlEPwLxFa96gjXBRAEV/eIeXgn/xB+fFh9XYMp2uF95/2cOCvGY6BuNFPCCE7iKX1prl4I4CQsWhwfNjBwcV5TCXS3FT64TTSSoNgp/eg8utEGuzMkcU39RqXCt8S3xPnibT++tqO3b3CpHLi/mgVKzzOzbWYagdzYi7Bd8emTCyuMNMpH2cHMqq6jspbBDjjsM7TE07QpYQQ4oo+tL4KGI/ZmHT1GuBg1x9/taQ7kMQl1wZ
 ```
-
+Server 9
+```
+dnstt://fZTmT9uG9dH5q1xD0+OUnm1fKDJF5dJv9cTv5fVBv0NytxbVgWUd+Wbse5y2H8y3nLQMkEatn/wDWz3cI+MDiQ3iXTDkD0Oj1J2zGMefV++KKZIEUp699HdKf9xwgiPMqHVJjs1jXLq02HRo4hKlm8IbNBMVhzeE+JVDmzFSeHmARESexleYeWJnylGSLH/YHM1G6UJVVMcZ6adsOnmH29E/Dye3Gdiw2/BzrNyxaZ57iPONkCsgpFfyCYcy5tdq
+```
+Server 10
+```
+dnstt://XNlteMD+0siEDIviEqMm4apiA5Tz+ohlhoo8bID90FAc3sXjtFKtmOvm67+Ow+r2qB4GGFWsBWydMM0ITYJVKDiKVgHl5+3lU1BmS4yDCGVAIzXI9M02l4hUGyZWO4M4gPbvY72GmQYkyKxEXGT+vRkHwOIwgaqsW1Ih0WRkcpLDsp64ZqV/h/k2xKySBkL6zWaHqYfBWMjj2SfEB/mNQizLdk8CA+XYYDZvdzmU4up2ddDtP3BJG+p99QtJrVMFWW4IhfUu8h/819IP/0nX5Q==
+```
 Ps: need disable power saving mode sa dnstt.apk 
 or allow to run in background.
 
