@@ -9,15 +9,14 @@ important reminder: set niyo pala ipv6 apn protocol niyo. punta lng kayo sa phon
 CONFIG UPDATE GUYS: 1000.0.1007 latest config kung hindi ganto config niyo sa app no browse talaga sa inyo.
 
 Install dnstt.apk first 
-https://github.com/kiranoble/globetm-noload-2025-full-tutorial-/raw/refs/heads/main/DNSTT_v2.0.8b%20(1).apk
+https://github.com/kiranoble/globetm-noload-2025-full-tutorial-/raw/refs/heads/main/DNSTT_v2.0.8c.apk
 
 Steps:
-1. install dnstt.apk
-2. click + symbol sa taas 
-3. via clipboard (copy all servers below)
-4. click on any server and start
-5. open izph vpn app and connect on gtmnoload sa payload at globe tm noload sa server.
-6. pag connected tapos nobrowse mag on and off airplane mode lang kayo until magkabrowse. pag okay na wag niu na ioff data niyo. Enjoy and huwag kalimutang magadd time ⏰
+1. install latest dnstt.apk (nasa taas)
+2. open dnstt app and choose any izph server (meron nang 10 servers yang latest dnstt app - clear data niu ung dnstt app if ayaw lumabas ng 10 servers)
+3. click start 
+4. open izph vpn app and connect on gtmnoload sa payload at globe tm noload sa server.
+5. pag connected tapos nobrowse mag on and off airplane mode lang kayo until magkabrowse. pag okay na wag niu na ioff data niyo. Enjoy and huwag kalimutang magadd time ⏰
 
 Server 1:
 ```
