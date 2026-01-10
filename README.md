@@ -1,3 +1,4 @@
+# update dnsttapk and gtmnoload servers (january 10, 2026)
 # globetm-noload-2026-full-tutorial-
 All credits to Arjienx for script and servers. Maraming salamat kuyz sa collab ❤️🙏 Godbless❤️
 credits to yooh for the dnstt.apk
