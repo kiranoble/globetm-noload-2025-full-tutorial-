@@ -9,7 +9,7 @@ important reminder: set niyo pala ipv6 apn protocol niyo. punta lng kayo sa phon
 CONFIG UPDATE MUNA GUYS 
 
 Install dnstt.apk first 
-https://github.com/kiranoble/globetm-noload-2025-full-tutorial-/raw/refs/heads/main/DNSTT_v2.1.0x_.apk
+https://github.com/kiranoble/globetm-noload-2025-full-tutorial-/raw/refs/heads/main/DNSTT_v2.1.8.apk
 
 Steps:
 1. install latest dnstt.apk (nasa taas)
@@ -17,7 +17,7 @@ Steps:
 3. Click + symbol sa taas then click config file
 4. click online then paste this link
 ```
-https://pastebin.com/raw/QUxJ29PP
+https://pastebin.com/raw/jRVuQ12A
 ```
 5. select any server
 6. click start 
