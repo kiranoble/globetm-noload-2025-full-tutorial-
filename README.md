@@ -32,4 +32,4 @@ Playstore link:
 https://play.google.com/store/apps/details?id=com.izphprov2.net
 
 MediaFire link:
-https://www.mediafire.com/file/ctq85onk7brep1d/izph42.apk/file
+https://www.mediafire.com/file/g0n5un1lged42vs/izph43.apk/file
